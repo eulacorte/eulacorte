@@ -3,6 +3,7 @@
 <div>
     <a href="https://github.com/eulacorte">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulacorte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    [![EuLacorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=eulacorte)](https://github.com/eulacorte/github-readme-stats)
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulacorte&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
