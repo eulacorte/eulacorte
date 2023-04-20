@@ -1,12 +1,5 @@
 ### E ai! Eu sou o Gabriel Lacôrte! 😄
 
-<div>
-    <a href="https://github.com/eulacorte">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eulacorte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    [![EuLacorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=eulacorte)](https://github.com/eulacorte/github-readme-stats)
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulacorte&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
     <img align="center" alt="gl-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="gl-mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
